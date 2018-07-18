@@ -8,10 +8,13 @@
         <RootNamespace>SDL2</RootNamespace>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <Version>2.0.8</Version>
-        <PackageLicenseUrl>https://github.com/IntelOrca/SDL2-CS/blob/master/LICENSE</PackageLicenseUrl>
-        <PackageProjectUrl>https://github.com/IntelOrca/SDL2-CS</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/flibitijibibo/SDL2-CS/blob/master/LICENSE</PackageLicenseUrl>
+        <PackageProjectUrl>https://github.com/flibitijibibo/SDL2-CS</PackageProjectUrl>
         <PackageIconUrl></PackageIconUrl>
         <Description>SDL2 wrapper for .NET standard.</Description>
+        <PackageId>SDL2-CS.NetCore</PackageId>
+        <RepositoryUrl>https://github.com/IntelOrca/SDL2-CS</RepositoryUrl>
+        <PackageTags>sdl2 wrapper netcore netstandard</PackageTags>
     </PropertyGroup>
     <ItemGroup>
         <None Include="SDL2-CS.dll.config">

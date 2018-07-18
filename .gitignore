@@ -1,6 +1,7 @@
 .vs/
 bin/
 obj/
+artefacts
 *.pidb
 *.userprefs
 *.suo

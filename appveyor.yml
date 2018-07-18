@@ -1,12 +1,11 @@
 version: 2.0.8-{build}
 image:
 - Visual Studio 2017
-configuration: Release
 after_build:
 - cmd: >-
     mkdir artefacts
 
-    nuget pack -OutputDirectory artefacts
+    dotnet pack -c Release -o artefacts
 artifacts:
 - path: 'artefacts\**\*.nupkg'
 deploy:
