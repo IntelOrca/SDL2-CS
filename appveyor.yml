@@ -1,7 +1,7 @@
 version: 2.0.8-{build}
 image:
 - Visual Studio 2017
-after_build:
+build_script:
 - cmd: >-
     mkdir artefacts
 
