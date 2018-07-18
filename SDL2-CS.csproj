@@ -10,7 +10,7 @@
         <Version>2.0.8</Version>
         <PackageLicenseUrl>https://github.com/flibitijibibo/SDL2-CS/blob/master/LICENSE</PackageLicenseUrl>
         <PackageProjectUrl>https://github.com/flibitijibibo/SDL2-CS</PackageProjectUrl>
-        <PackageIconUrl></PackageIconUrl>
+        <PackageIconUrl>https://raw.githubusercontent.com/IntelOrca/SDL2-CS/master/logo.png</PackageIconUrl>
         <Description>SDL2 wrapper for .NET standard.</Description>
         <PackageId>SDL2-CS.NetCore</PackageId>
         <RepositoryUrl>https://github.com/IntelOrca/SDL2-CS</RepositoryUrl>
